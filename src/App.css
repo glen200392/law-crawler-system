@@ -1,0 +1,40 @@
+.app {
+  text-align: center;
+}
+
+.logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.ant-layout {
+  min-height: 100vh;
+}
+
+.ant-layout-sider {
+  box-shadow: 2px 0 6px rgba(0, 21, 41, 0.35);
+}
+
+.ant-layout-content {
+  margin: 24px 16px;
+  padding: 24px;
+  background: #fff;
+  min-height: 280px;
+}
+
+.ant-card {
+  margin-bottom: 24px;
+}
+
+.ant-statistic-title {
+  font-size: 14px;
+}
+
+.ant-progress-text {
+  font-size: 12px;
+} 
